@@ -9,3 +9,5 @@ Using **golang** to make a *simple* slowloris(dos) webserver stress tool.
     cd slowloris
     go build slowloris.go
     ./slowloris <ip> <port> <connections>
+## More information
+https://en.wikipedia.org/wiki/Slowloris_(computer_security)
